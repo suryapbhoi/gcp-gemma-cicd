@@ -50,6 +50,6 @@ substitutions:
   _DOCKER_IMAGE: '03sarath/gemma-ai:3.0'
   _SERVICE_NAME: 'gemma-ai'
   _REGION: 'us-central1'
-  _PORT: '8080'
+  _PORT: '8000'
   _MEMORY: '8Gi'
   _CPU: '2'  
